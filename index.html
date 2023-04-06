@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 Not Found</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    body{
+      padding: 40px 77px;
+      height: 80vh;
+    }
+    .header{
+      font-family: 'Inconsolata', monospace;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 25px;
+      color: #333333;
+      text-transform: uppercase;
+      letter-spacing: -0.08em;
+      margin: 0;
+    }
+    .flexbox{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 0 56px 45px;
+      gap: 80px;
+    }
+    img{
+      width: 540px;
+      height: 415px;
+    }
+    .hero-text{
+      font-family: 'Space Mono', monospace;
+      align-self: start;
+    }
+    .hero-text h1{
+      color: #333333;
+      font-size: 64px;
+      line-height: 95px;
+      font-style: normal;
+      font-weight: 700;
+      letter-spacing: -0.035em;
+      margin: 0;
+    }
+    .hero-text p{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      line-height: 36px;
+      letter-spacing: -0.035em;
+      color: #4F4F4F;
+      margin-bottom: 64px;
+      width: 380px;
+    }
+    .hero-text a{
+      background-color: #333333;
+      color: #ffffff;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 21px;
+      letter-spacing: -0.035em;
+      text-transform: uppercase;
+      padding: 24px 43px;
+    }
+    .footer-text{
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 17px;
+      color: #BDBDBD;
+      text-align: center;
+    }
+    @media (max-width:1024px) {
+      .flexbox{
+        flex-wrap: wrap;
+      }
+      img{
+        width: 280px;
+        height: 222px;
+      }
+      .hero-text h1{
+        font-size: 48px;
+        line-height: 71px;
+      }
+      .hero-text p{
+        font-size: 18px;
+        line-height: 27px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <p class="header">404 Not Found</p>
+
+  <section class="flexbox">
+    <img src="/Scarecrow.png" alt="" srcset="" class="hero-img">
+    <section class="hero-text">
+      <h1>I have bad news for you</h1>
+      <p>The page you are looking for might be removed or is temporarily unavailable</p>
+
+      <a href="#">Back to homepage</a>
+    </section>
+  </section>
+
+  <p class="footer-text">created by MuthoniMN - devchallenges.io</p>
+</body>
+</html>
