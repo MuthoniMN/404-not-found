@@ -38,7 +38,7 @@
 
 ![screenshot](/404.png)
 
-- Thhis is a fully responsive 404 page.Check out the [demo](https://404-mitch.netlify.app/)
+- Thhis is a fully responsive 404 page. Check out the [demo](https://404-mitch.netlify.app/)
 - I really loved replicating the design. It was fun and I made a few mistakes along the way but that's the joy of coding.  
 - I leant how to deploy a site on Netlify which was actually easier than I thought it would be. This is also my first public repository
 - I've been coding for almost 3 years now and this project highlighted basic concepts that I overlook. HTML and CSS are powerful on their own
