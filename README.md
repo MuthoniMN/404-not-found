@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-mitch.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/MuthoniMN/404-not-found}">
       Solution
     </a>
     <span> | </span>
@@ -38,12 +38,10 @@
 
 ![screenshot](/404.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
+- Thhis is a fully responsive 404 page.Check out the [demo](https://404-mitch.netlify.app/)
 - I really loved replicating the design. It was fun and I made a few mistakes along the way but that's the joy of coding.  
-- I leant how to deploy a site on Netlify which was actually easier than I thought it would be.
-- Your wisdom? :)
+- I leant how to deploy a site on Netlify which was actually easier than I thought it would be. This is also my first public repository
+- I've been coding for almost 3 years now and this project highlighted basic concepts that I overlook. HTML and CSS are powerful on their own
 
 ### Built With
 
